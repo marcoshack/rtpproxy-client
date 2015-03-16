@@ -1,0 +1,1 @@
+rtpproxy-client project uses JIRA as issue tracking system **http://jira.vtlabs.org/browse/RTPPC**

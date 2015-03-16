@@ -1,0 +1,1 @@
+Sorry but there is almost no usage documentation yet. If the [API documentation](http://rtpproxy-client.googlecode.com/files/rtpproxy-client-api-0.2-javadoc.jar) wasn't enough please issue a message in our [mailing list](http://groups.google.com/group/rtpproxy-client).
